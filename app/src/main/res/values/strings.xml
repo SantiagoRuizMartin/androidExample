@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="send">SEND</string>
+    <string name="in_message">Message here</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
